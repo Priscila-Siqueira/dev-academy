@@ -29,9 +29,14 @@ Responsabilidades:
 Branch: feature/vanessa-pages-finalizacao
 
 Responsabilidades:
-- Finalização da página Login.
-- Finalização da página Register.
-- Finalização da página Home.
-- Integração dos componentes.
-- Ajustes finais de layout e responsividade.
-- Validação final do projeto.
+
+Integração dos componentes criados anteriormente.
+Ajustes finais de layout da Home.
+Ajustes de responsividade das telas.
+Atualização do README.md.
+Atualização do docs/CONTRIBUICOES.md.
+Execução das validações finais:
+npm run build
+npm run lint
+Verificação da ausência de CSS Modules no projeto.
+Preparação da versão final para entrega.
